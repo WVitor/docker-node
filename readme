@@ -1,0 +1,9 @@
+sudo docker images (lista as imagens)
+
+sudo docker image rm -f <id-image> (remove a imagem)
+
+sudo docker image build -t <nome-da-imagem> . (builda a imagem)
+
+sudo docker compose up / down  (tag -d para rodar em background)
+
+sudo docker exec -it <id-container> bash (entra no container)
