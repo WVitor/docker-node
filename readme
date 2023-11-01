@@ -1,3 +1,5 @@
+###Modelo basico de docker para projeto em node### 
+
 sudo docker images (lista as imagens)
 
 sudo docker image rm -f <id-image> (remove a imagem)
